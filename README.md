@@ -23,7 +23,7 @@ MCQ Generator with Streamlit is a web application that allows users to upload PD
 ## Installation
 1. Clone the repository:
 
-   ` git clone https://github.com/your-username/mcq-generator-streamlit.git `
+   ` git clone https://github.com/your-username/mcqgen.git `
     
    
 2 Install the required dependencies:
