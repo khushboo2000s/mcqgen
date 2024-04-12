@@ -46,7 +46,10 @@ MCQ Generator with Streamlit is a web application that allows users to upload PD
 
 
 
-https://github.com/khushboo2000s/mcqgen/assets/75209006/e853d68f-714e-4f6b-af9d-5cdd26063576
+https://github.com/khushboo2000s/mcqgen/assets/75209006/15ea4a9c-3542-4c0f-8637-3c108299b0db
+
+
+
 
 ## Usage
 
